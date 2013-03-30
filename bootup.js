@@ -1,0 +1,1 @@
+var PLCE = window.PLCE || {};
